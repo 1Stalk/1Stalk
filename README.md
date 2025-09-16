@@ -35,7 +35,7 @@ I'm a student developer with a passion for the Godot Engine. I love crafting ope
   <a href="https://1stalk.itch.io/" target="_blank">
     <img src="https://img.shields.io/badge/Itch.io-%23fa5c5c.svg?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io"/>
   </a>
-  <a href="https://discordapp.com/users/358244949514780672" target="_blank">
+  <a href="https://discordapp.com/users/249143609662636032" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=for-the-badge" alt="Discord"/>
   </a>
 </p>
