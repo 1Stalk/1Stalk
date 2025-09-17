@@ -1,7 +1,5 @@
-## Hi there 👋
-
-I'm a student developer with a passion for the Godot Engine. I love crafting open-source tools and plugins that help the community. Also building games on the side! 🛠️
--   🌱 **I’m currently learning:** Advanced GDScript in Godot and GLSL shader programming.
+I'm a student developer Godot Engine. Crafting open-source tools and plugins that help the community. Also building games on the side. 🛠️
+-   🌱 **Currently learning:** Advanced GDScript in Godot and GLSL shader programming.
 
 ---
 ## My Projects
